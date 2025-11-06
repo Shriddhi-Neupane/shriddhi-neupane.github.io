@@ -9,6 +9,9 @@
 html{
     scroll-behavior: smooth;
 }
+body{
+    background-color: #f8ecd5;
+}
 .container{
     margin: auto;
     width: 86%;  
