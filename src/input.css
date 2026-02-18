@@ -21,3 +21,10 @@ header{
     margin-top: 30px;
     margin-bottom: 30px;
 }
+.image{
+    background-image: url(https://i.pinimg.com/736x/21/2f/ba/212fba00cf201ac6e5b2dfc350b22e94.jpg);
+    background-size: cover;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
